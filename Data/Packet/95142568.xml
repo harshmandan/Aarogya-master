@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Family_Data>
+    <Family_Member memberName="Mahesh">
+        <age>21</age>
+        <disease>1</disease>
+        <disease_symp>2</disease_symp>
+        <dob>25-1-1996</dob>
+        <gender>1</gender>
+        <relation>self</relation>
+        <sr_no>1</sr_no>
+    </Family_Member>
+    <survey hofName="Mahesh " rashanId="568956245">
+        <asha_member>Ashish</asha_member>
+        <bhamasha></bhamasha>
+        <district>Jodhpur</district>
+        <f_members>1</f_members>
+        <food_plan>false</food_plan>
+        <form_num>95142568</form_num>
+        <health_centre>Item 4</health_centre>
+        <health_insurance>8595484145784595</health_insurance>
+        <mobile>9568457415</mobile>
+        <phc>Item 4</phc>
+        <status>false</status>
+        <village>Item 3</village>
+    </survey>
+</Family_Data>
